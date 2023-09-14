@@ -1,0 +1,42 @@
+.item {
+  text-align: center;
+  margin: 20px;
+  padding: 10px;
+}
+
+.item img {
+  max-width: 320px;
+  max-height: 320px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+body {
+  height: 100vh;
+  background-color: #ffffff;
+}
+
+.header {
+  text-align: center;
+  padding: 5px; 
+  font-size: 20px;
+  margin-top: -15px;
+  margin-bottom: -15px;
+}
+
+h3 {
+  margin-bottom: -15px;
+  margin-top: 10px;
+  font-size: 14px;
+  color: #000000;
+}
+
+.movieButton {
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+.tableAlignment {
+  display: flex;
+  justify-content: center;
+}
